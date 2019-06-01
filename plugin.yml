@@ -1,0 +1,11 @@
+name: SudoManager
+main: SudoManager\SudoManager
+author: TeleMC
+version: 1.0.0
+api:
+  - 3.2.0
+  - 3.3.0
+  - 4.0.0
+commands:
+  sudo:
+    description: 권한 관리 명령어입니다.
